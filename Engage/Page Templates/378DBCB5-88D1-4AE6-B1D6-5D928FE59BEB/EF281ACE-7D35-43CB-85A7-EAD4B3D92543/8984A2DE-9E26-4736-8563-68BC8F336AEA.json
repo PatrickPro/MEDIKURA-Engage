@@ -27,8 +27,29 @@
   "name": "Itemlist / Entry ",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6B242AD-EE49-418A-9428-1BFE5263FBA5",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68BF7D3A-FC0F-4F2E-8857-53E4A2321ED6",
+      "overrideName": "1915DD67-F791-4092-8F3F-B8CA2D29AD8E_stringValue",
+      "value": "PH43RM3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A793892-E89F-4B06-80A8-8A02FC634700",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "01. Mai"
+    }
   ],
   "overrides": {
+    "1915DD67-F791-4092-8F3F-B8CA2D29AD8E": "PH43RM3",
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament A"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -34,9 +34,23 @@
       "do_objectID": "FA59F9C3-E9D0-417B-88CA-DA7FC445BB2C",
       "overrideName": "D1161652-2BAA-4C09-A1AE-9AA67D2CF062_symbolID",
       "value": "5EE2E74E-7994-4095-9B61-7A159B9DBBC1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "284782AE-5C8A-4C80-A70C-75900FFD8226",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament Z"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B38413AD-4490-4A33-875A-315BA56068FD",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "30. April"
     }
   ],
   "overrides": {
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "30. April",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament Z",
     "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
       "symbolID": "5EE2E74E-7994-4095-9B61-7A159B9DBBC1"
     }

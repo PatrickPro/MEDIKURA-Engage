@@ -29,8 +29,22 @@
   "name": "Itemlist / Entry ",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9B6394D-B8E1-45D0-BB59-C5259D5FD48A",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "65699909-9B3A-4AF2-B76A-C915717EC2AC",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "01. Mai"
+    }
   ],
   "overrides": {
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament B"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

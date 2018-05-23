@@ -29,8 +29,29 @@
   "name": "Itemlist / Entry ",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "722A4A74-A04D-4A54-9A62-6DCECA3761FA",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament AB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F3F365E-74C9-4189-B0D8-3D8C01718203",
+      "overrideName": "1915DD67-F791-4092-8F3F-B8CA2D29AD8E_stringValue",
+      "value": "AW71GH"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BAD8769-488C-4EBF-A6CC-C230539F5B10",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "01. Mai"
+    }
   ],
   "overrides": {
+    "1915DD67-F791-4092-8F3F-B8CA2D29AD8E": "AW71GH",
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament AB"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
