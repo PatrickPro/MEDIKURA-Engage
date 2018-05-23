@@ -30,6 +30,8 @@ https://thenounproject.com/search/?q=mind&i=1525498
 https://thenounproject.com/search/?q=thyroid&i=945148
 https://thenounproject.com/search/?q=allergy&i=867587
 
+https://thenounproject.com/search/?q=pill&i=1243860
+
 
 
 

@@ -29,8 +29,15 @@
   "name": "Icon / Status",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A4DE8F1-AAEE-4A9F-85AD-F604B7EA6924",
+      "overrideName": "FA073DF1-6440-43B2-AC93-0E71F684E048_stringValue",
+      "value": "Bearbeitet"
+    }
   ],
   "overrides": {
+    "FA073DF1-6440-43B2-AC93-0E71F684E048": "Bearbeitet"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
