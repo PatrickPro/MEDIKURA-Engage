@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BAA7272D-10EA-431B-8D64-0F08BED23105",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9024BBF8-9214-4FD3-9130-A02B24878CA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "971BB1A2-47F5-418A-A5A5-AC1E244CEB90",
+    "height": 62,
+    "width": 680,
+    "x": 686,
+    "y": 632
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C38DFB0-02EB-4769-A784-0376DD09620E",
+      "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "045C3C9C-4CE1-42D9-9278-AD0995DB11C4",
+      "overrideName": "ECB3214B-7B49-47D0-A28D-D83AAE069802_stringValue",
+      "value": "Seit wann nehmen Sie das Medikament A ein?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7EA4B41-C1E3-4A33-A1FD-386AFF23F897",
+      "overrideName": "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1",
+    "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF": " ",
+    "ECB3214B-7B49-47D0-A28D-D83AAE069802": "Seit wann nehmen Sie das Medikament A ein?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D8E9C2F-EA96-4590-BBD6-91201E3BF23E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C940D105-69C7-4406-AECB-6994640E8130",
+  "verticalSpacing": 0
+}

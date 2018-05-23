@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "29A993D9-DA58-460F-8D98-6D38795A6185",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC3F73F9-7612-46E0-A902-E54482BB269F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93F2D19C-0067-45A7-81BF-9BA8735D140E",
+    "height": 62,
+    "width": 680,
+    "x": 686,
+    "y": 692
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C38DFB0-02EB-4769-A784-0376DD09620E",
+      "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "045C3C9C-4CE1-42D9-9278-AD0995DB11C4",
+      "overrideName": "ECB3214B-7B49-47D0-A28D-D83AAE069802_stringValue",
+      "value": "Haben Sie Medikament B wieder abgesetzt?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF23CA3C-F644-4F72-B3E7-0A2DA5B94044",
+      "overrideName": "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1",
+    "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF": " ",
+    "ECB3214B-7B49-47D0-A28D-D83AAE069802": "Haben Sie Medikament B wieder abgesetzt?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0E37C0C-F64B-439E-8BDD-FC18C0E53B54",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C940D105-69C7-4406-AECB-6994640E8130",
+  "verticalSpacing": 0
+}
