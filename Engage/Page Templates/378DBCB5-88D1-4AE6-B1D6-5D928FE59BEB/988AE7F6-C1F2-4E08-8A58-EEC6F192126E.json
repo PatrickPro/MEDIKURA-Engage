@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "988AE7F6-C1F2-4E08-8A58-EEC6F192126E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83902F3B-8792-463F-A94A-D5F16902724C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AF7DCBC-16F8-44AC-ADB8-24CFADACBBE2",
+    "height": 14,
+    "width": 47,
+    "x": 1179,
+    "y": 115
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Status",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "162A3F53-B704-4716-A6C9-0D65217551CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BB277FA7-71E7-4371-B150-5089B0BF1489",
+  "verticalSpacing": 0
+}
