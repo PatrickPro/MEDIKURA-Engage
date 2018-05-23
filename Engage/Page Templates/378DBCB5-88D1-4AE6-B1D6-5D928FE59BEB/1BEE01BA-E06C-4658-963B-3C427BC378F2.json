@@ -40,9 +40,16 @@
       "do_objectID": "7C38DFB0-02EB-4769-A784-0376DD09620E",
       "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
       "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF5C23C9-4177-4BC1-86C9-E621C3DA0E41",
+      "overrideName": "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA_stringValue",
+      "value": "Unbekannt"
     }
   ],
   "overrides": {
+    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "Unbekannt",
     "1865BA21-E42E-4212-B1A2-E169E3FD5E18": "Medikament A",
     "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1"
   },

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AD52EC1B-4B01-4256-BA31-7FC41113BC08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 779,
+    "width": 1440,
+    "x": 0,
+    "y": 756
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1-Desktop / 1-Landing / 6-Form / 1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F978A889-040A-4A89-9963-B2986ECE882B",
+      "overrideName": "12546A18-B6B4-4A6A-9960-1A2A6B575D01_stringValue",
+      "value": "Rückfrage zu \"Medikament A\""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C750E22-FA02-41AE-A73E-DD939379EDE5",
+      "overrideName": "BE7132A2-87CC-41CC-B21B-8C9F4777369F_stringValue",
+      "value": "Sehr geehrter Patient, wir haben eine Rückfrage zu Ihrer Nebenwirkungsmeldung erhalten. Bitte nehmen Sie sich kurz Zeit diese zu beantworten. Geben Sie keine persönlichen Daten, wie Konaktinformationen an, wenn Sie Ihre Identität schützen möchten. Vielen Dank! Ihr NEBENWIRKUNGEN.EU Team"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83966702-9DFC-439C-9E4F-1619AACBF75F",
+      "overrideName": "7B56CF0C-97C5-4806-A491-041C5FB5AC2D/2682BB8E-17C1-4819-B254-98A7EF9D00EA/0A66BF71-1963-4749-BF83-E94681263CF3_stringValue",
+      "value": "Seit wann nehmen Sie das Medikament 1 ein?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71D45BED-BE6A-4FDA-83B5-A8ADE6CBAB0C",
+      "overrideName": "7B56CF0C-97C5-4806-A491-041C5FB5AC2D/75F50897-9F9F-4AED-A250-4E8310E563F1/0A66BF71-1963-4749-BF83-E94681263CF3_stringValue",
+      "value": "Haben Sie das Medikament B wieder abgesetzt?"
+    }
+  ],
+  "overrides": {
+    "12546A18-B6B4-4A6A-9960-1A2A6B575D01": "Rückfrage zu \"Medikament A\"",
+    "7B56CF0C-97C5-4806-A491-041C5FB5AC2D": {
+      "2682BB8E-17C1-4819-B254-98A7EF9D00EA": {
+        "0A66BF71-1963-4749-BF83-E94681263CF3": "Seit wann nehmen Sie das Medikament 1 ein?"
+      },
+      "75F50897-9F9F-4AED-A250-4E8310E563F1": {
+        "0A66BF71-1963-4749-BF83-E94681263CF3": "Haben Sie das Medikament B wieder abgesetzt?"
+      }
+    },
+    "BE7132A2-87CC-41CC-B21B-8C9F4777369F": "Sehr geehrter Patient, wir haben eine Rückfrage zu Ihrer Nebenwirkungsmeldung erhalten. Bitte nehmen Sie sich kurz Zeit diese zu beantworten. Geben Sie keine persönlichen Daten, wie Konaktinformationen an, wenn Sie Ihre Identität schützen möchten. Vielen Dank! Ihr NEBENWIRKUNGEN.EU Team"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "28A70147-2DDE-4DB7-B95D-EEF046C17423",
+  "verticalSpacing": 0
+}

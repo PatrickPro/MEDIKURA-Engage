@@ -45,7 +45,7 @@
       "_class": "overrideValue",
       "do_objectID": "CA4DF3AF-2E70-4110-865E-447A365CE751",
       "overrideName": "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA_stringValue",
-      "value": "01.01.1999 - 14.04.2018"
+      "value": "Unbekannt"
     },
     {
       "_class": "overrideValue",
@@ -61,7 +61,7 @@
     }
   ],
   "overrides": {
-    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "01.01.1999 - 14.04.2018",
+    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "Unbekannt",
     "1865BA21-E42E-4212-B1A2-E169E3FD5E18": "Medikament B",
     "192FB113-7D73-40C2-98CF-3A5749385CD1": "Möglich",
     "55EB8D08-F6B0-461D-9220-07A523309B22": "2 Zäpfchen",

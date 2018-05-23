@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75F50897-9F9F-4AED-A250-4E8310E563F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88AD60FF-7262-4C87-85F0-2F16071CE434",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C5D32CD-05CC-4499-BC92-B60031586E14",
+    "height": 147,
+    "width": 641,
+    "x": 40,
+    "y": 286
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rückfragen / Frage Entry",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D7B4319-9918-4337-8247-F59D96E0AE9C",
+      "overrideName": "0A66BF71-1963-4749-BF83-E94681263CF3_stringValue",
+      "value": "Frage 2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F95E7F03-DCE9-45A4-82B7-1B4CE4E59036",
+      "overrideName": "46BC4B6C-6870-4E16-9F0E-4BA39ABA6F0F/1E911D87-D727-454C-A824-81B25858CB94_stringValue",
+      "value": "Hier schreiben..."
+    }
+  ],
+  "overrides": {
+    "0A66BF71-1963-4749-BF83-E94681263CF3": "Frage 2",
+    "46BC4B6C-6870-4E16-9F0E-4BA39ABA6F0F": {
+      "1E911D87-D727-454C-A824-81B25858CB94": "Hier schreiben..."
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6B21DF3-7277-49BB-9788-A28800544AAF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9AD76B09-A5EA-4D1B-99B5-A0DB2CBBD187",
+  "verticalSpacing": 0
+}

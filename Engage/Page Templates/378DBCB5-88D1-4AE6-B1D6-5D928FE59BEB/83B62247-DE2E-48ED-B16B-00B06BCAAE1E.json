@@ -52,9 +52,16 @@
       "do_objectID": "F7904783-326B-40FE-80E2-D95D48439661",
       "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
       "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8C33286-0758-4987-9D98-74BEA710FEBC",
+      "overrideName": "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA_stringValue",
+      "value": "Unbekannt"
     }
   ],
   "overrides": {
+    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "Unbekannt",
     "1865BA21-E42E-4212-B1A2-E169E3FD5E18": "Medikament C",
     "192FB113-7D73-40C2-98CF-3A5749385CD1": "Kein Zusammenhang ",
     "55EB8D08-F6B0-461D-9220-07A523309B22": "100 ml ",
