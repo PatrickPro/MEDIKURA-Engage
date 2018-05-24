@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 964,
-    "width": 216,
-    "x": 4,
-    "y": 52
+    "height": 1024,
+    "width": 230,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -25,6 +25,10 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E5EA782-CD96-480C-9044-87CDC0F334E3"
+    },
     {
       "class": "text",
       "id": "7C01CE5E-A7B2-4A02-AAB7-61413BEE2E19"
@@ -76,6 +80,14 @@
     {
       "class": "symbolInstance",
       "id": "4E875FE4-8EAF-43AF-BA7C-CDA95871BBB9"
+    },
+    {
+      "class": "text",
+      "id": "91BC8388-3ECC-4171-AF21-62382114A284"
+    },
+    {
+      "class": "bitmap",
+      "id": "49F3AEA8-FF0A-4F2B-AC65-28B9A5177497"
     }
   ],
   "name": "Sidebar",
