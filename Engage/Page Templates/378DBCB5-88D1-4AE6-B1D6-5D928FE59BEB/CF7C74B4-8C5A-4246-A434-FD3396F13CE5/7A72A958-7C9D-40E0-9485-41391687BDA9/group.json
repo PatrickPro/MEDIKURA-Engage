@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "7A72A958-7C9D-40E0-9485-41391687BDA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 165,
+    "x": 139,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0E3ED8D1-3FE0-413A-A22C-8283357CD9D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F6E5A9E-6F05-45EE-A62F-1274E4E53447"
+    }
+  ],
+  "name": "Medikament A Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

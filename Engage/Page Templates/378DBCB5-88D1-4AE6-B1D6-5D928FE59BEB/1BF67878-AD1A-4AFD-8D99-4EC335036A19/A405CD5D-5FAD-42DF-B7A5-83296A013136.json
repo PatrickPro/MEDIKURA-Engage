@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A405CD5D-5FAD-42DF-B7A5-83296A013136",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A85C117-1B16-41D8-84F9-F6578D154796",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9EFE5D7-3EBE-415E-9483-B6F26AD27665",
+    "height": 39,
+    "width": 680,
+    "x": 45,
+    "y": 183
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76112286-A19B-4078-8C52-636704E3536B",
+      "overrideName": "55EB8D08-F6B0-461D-9220-07A523309B22_stringValue",
+      "value": "100 ml "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7904783-326B-40FE-80E2-D95D48439661",
+      "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A692D833-C241-40AA-B63E-C412EBE3240C",
+      "overrideName": "3F5D3E9E-7C74-4F46-8CBD-AC3020E3B8E4_stringValue",
+      "value": "Die Geschmacksnerven versagen, vieles schmeckt bitter, anderes gar nicht. Veränderter Geruchssinn"
+    }
+  ],
+  "overrides": {
+    "3F5D3E9E-7C74-4F46-8CBD-AC3020E3B8E4": "Die Geschmacksnerven versagen, vieles schmeckt bitter, anderes gar nicht. Veränderter Geruchssinn",
+    "55EB8D08-F6B0-461D-9220-07A523309B22": "100 ml ",
+    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "3"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D45E400B-D8A2-42E6-9E30-3A577F5257B9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AB12CEB9-0CC4-4D99-B6DE-F3A1AFA7437F",
+  "verticalSpacing": 0
+}

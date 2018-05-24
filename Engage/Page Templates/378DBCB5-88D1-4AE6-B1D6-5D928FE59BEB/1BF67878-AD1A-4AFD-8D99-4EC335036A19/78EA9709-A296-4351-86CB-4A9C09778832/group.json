@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "78EA9709-A296-4351-86CB-4A9C09778832",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 713,
+    "x": 45,
+    "y": 240
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "22C91B34-DCC5-44E9-8CB3-6F28093D74C8"
+    },
+    {
+      "class": "group",
+      "id": "1EFAEA77-5542-4719-8EFC-7243D36B0BC5"
+    },
+    {
+      "class": "text",
+      "id": "4D051739-24F4-41B1-9229-699F9492FDB9"
+    },
+    {
+      "class": "group",
+      "id": "920BF113-DD02-4660-A92E-078549C38ACF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2D3DAB6-FDC2-4E2A-AC1B-C609101D900F"
+    }
+  ],
+  "name": "Gewohnheiten & Erkrankungen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

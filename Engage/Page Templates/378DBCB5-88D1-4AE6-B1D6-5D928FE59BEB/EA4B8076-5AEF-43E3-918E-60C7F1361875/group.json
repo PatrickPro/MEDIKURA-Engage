@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -72,6 +72,10 @@
     {
       "class": "group",
       "id": "9EADA729-7D02-4E22-A308-10FAEB4FEBF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E875FE4-8EAF-43AF-BA7C-CDA95871BBB9"
     }
   ],
   "name": "Sidebar",

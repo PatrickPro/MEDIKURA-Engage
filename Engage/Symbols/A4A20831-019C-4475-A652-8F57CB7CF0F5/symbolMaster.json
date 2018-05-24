@@ -1,0 +1,86 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BCE2B9A2-6CFA-4C8D-B50A-01033456FED7",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 14,
+  "do_objectID": "A4A20831-019C-4475-A652-8F57CB7CF0F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B0B714E-5DDA-4192-BD20-71293D8DC7E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C39B429F-F62A-448C-B3A6-71493A37B90B",
+    "height": 12,
+    "width": 12,
+    "x": 29632,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1E15B493-5FB1-4768-90DB-C4AB29DC73AA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F10244B9-D69C-4254-876C-A37FBEBFD315"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F4AAFF85-207B-4B97-BA18-119B2B4F7BC9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E7A9FD2-8FB2-4A05-B5E7-509277F41CA4"
+    }
+  ],
+  "name": "Itemlist / Checkbox Done",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6DEF9D1-E574-416F-A0D2-D76438A846BC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9B25FD70-2C0E-4007-A66A-C5C90B0FAC90",
+    "guides": [
+    ]
+  }
+}

@@ -40,9 +40,18 @@
       "do_objectID": "BBDBE6C6-6D62-49E4-99AE-0968437E78B7",
       "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
       "value": "Medikament V"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D1AF17A-F969-4DA9-8C82-FCCD8C35A151",
+      "overrideName": "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC_symbolID",
+      "value": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
     }
   ],
   "overrides": {
+    "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC": {
+      "symbolID": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
+    },
     "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament V",
     "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
       "symbolID": "EE1BD2F7-A79D-48C6-A785-7620E01CBBC3"

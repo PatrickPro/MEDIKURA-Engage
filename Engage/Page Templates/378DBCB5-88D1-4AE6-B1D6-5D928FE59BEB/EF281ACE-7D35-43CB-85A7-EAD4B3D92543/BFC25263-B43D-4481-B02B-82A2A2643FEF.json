@@ -40,9 +40,18 @@
       "do_objectID": "243C1D38-48C9-49EC-86BE-2B83C2F0A9B6",
       "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
       "value": "Medikament T"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A35A6CC-AF99-42B4-B51F-B0ABE42D326F",
+      "overrideName": "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC_symbolID",
+      "value": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
     }
   ],
   "overrides": {
+    "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC": {
+      "symbolID": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
+    },
     "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament T",
     "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
       "symbolID": "EE1BD2F7-A79D-48C6-A785-7620E01CBBC3"
