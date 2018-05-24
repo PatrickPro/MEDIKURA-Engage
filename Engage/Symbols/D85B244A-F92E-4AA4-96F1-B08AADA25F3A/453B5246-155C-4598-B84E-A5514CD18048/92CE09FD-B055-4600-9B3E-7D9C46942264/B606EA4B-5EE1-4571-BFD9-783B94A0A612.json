@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B606EA4B-5EE1-4571-BFD9-783B94A0A612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99693AAF-D5C9-4042-AA1D-9697346675DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CC40650-ABB6-46F3-A042-958722A02655",
+    "height": 39,
+    "width": 350,
+    "x": 0,
+    "y": 111
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "722A4A74-A04D-4A54-9A62-6DCECA3761FA",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament AB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F3F365E-74C9-4189-B0D8-3D8C01718203",
+      "overrideName": "1915DD67-F791-4092-8F3F-B8CA2D29AD8E_stringValue",
+      "value": "AW71GH"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BAD8769-488C-4EBF-A6CC-C230539F5B10",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "01. Mai"
+    }
+  ],
+  "overrides": {
+    "1915DD67-F791-4092-8F3F-B8CA2D29AD8E": "AW71GH",
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament AB"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "480151D9-CFB2-4BA8-B1FF-51D5C38FAEE7",
+      "opacity": 0.2
+    },
+    "do_objectID": "B6421D65-D6ED-47BD-B369-B4A680325767",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF078F4E-1C8C-43D0-8590-C5C5D2F5E554",
+  "verticalSpacing": 0
+}

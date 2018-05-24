@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "F6025C59-14D0-4EBC-BA5B-254AD247BD00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1C3BDA0-4E51-40AB-B31E-122E4780024C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "16E9C75C-88A6-491F-A9A0-FAD4DAA9C10C",
+    "height": 24,
+    "width": 489,
+    "x": 187,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DA9F0BFF-93B2-4D79-841B-4D028601F216"
+    },
+    {
+      "class": "bitmap",
+      "id": "54102E03-FA06-4879-99C5-2D46CA59D329"
+    },
+    {
+      "class": "bitmap",
+      "id": "3F1CEF22-72C5-4844-84D2-E7E6B7D0F551"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB6195F2-54E1-4F61-A933-9866E406721A"
+    },
+    {
+      "class": "bitmap",
+      "id": "03E65F47-BADE-4342-A2AE-59F2A88974EF"
+    },
+    {
+      "class": "bitmap",
+      "id": "15553198-289B-46E3-BCDE-0517AE9E429E"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C0F9035-30AC-4B49-A7CC-DA4C04543B14"
+    },
+    {
+      "class": "bitmap",
+      "id": "5650F68E-8B55-4D4C-B47E-A3150FF75CA2"
+    },
+    {
+      "class": "bitmap",
+      "id": "D8C407CB-6DAC-4C91-9C40-0C6ABFBB0F49"
+    },
+    {
+      "class": "bitmap",
+      "id": "906CFE71-A181-4ADF-AAAC-5D6E4BD4D90D"
+    },
+    {
+      "class": "bitmap",
+      "id": "65097C97-2F9B-4AEB-B8AB-1A0D0BC77DD0"
+    },
+    {
+      "class": "bitmap",
+      "id": "88DCBB0E-FCC6-4A1E-A11B-97C735BBD7D8"
+    },
+    {
+      "class": "bitmap",
+      "id": "EE42023D-366F-4514-AF5F-8B78390EB12D"
+    },
+    {
+      "class": "bitmap",
+      "id": "256700E6-3423-4315-8A40-32CD8CEAC6D2"
+    }
+  ],
+  "name": "Erkranungen Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28882509-D6E7-4673-81C3-3F6069228CFC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 1209,
   "do_objectID": "459E4B28-338B-4C8E-8FD6-2F1A006FDD7C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1036,
-    "width": 1874,
-    "x": 33738,
+    "height": 1024,
+    "width": 1440,
+    "x": 33959,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "E0DD9706-BB9D-4D6C-8B23-97E0AE12B3E1"
+      "class": "group",
+      "id": "85F6E39F-36E0-45D2-8EEF-FA3FF10AEC1A"
     },
     {
       "class": "group",

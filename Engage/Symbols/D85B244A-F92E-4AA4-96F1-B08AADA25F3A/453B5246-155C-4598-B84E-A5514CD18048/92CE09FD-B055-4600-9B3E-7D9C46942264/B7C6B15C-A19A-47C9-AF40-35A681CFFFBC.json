@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B7C6B15C-A19A-47C9-AF40-35A681CFFFBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E698FD4E-541D-4992-A8CC-B06467084CE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0ADDBC0-B900-4046-AC15-460734654EFC",
+    "height": 39,
+    "width": 350,
+    "x": 0,
+    "y": 555
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA59F9C3-E9D0-417B-88CA-DA7FC445BB2C",
+      "overrideName": "D1161652-2BAA-4C09-A1AE-9AA67D2CF062_symbolID",
+      "value": "EE1BD2F7-A79D-48C6-A785-7620E01CBBC3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7332C8A6-282C-4BA8-AB5E-0EB1BED607EA",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament AG"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A13662CC-DEBF-45E3-8CDF-AC10A46683AD",
+      "overrideName": "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC_symbolID",
+      "value": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
+    }
+  ],
+  "overrides": {
+    "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC": {
+      "symbolID": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
+    },
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament AG",
+    "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
+      "symbolID": "EE1BD2F7-A79D-48C6-A785-7620E01CBBC3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C1ECD469-D0F1-419C-B630-7AB1D572A2B5",
+      "opacity": 0.2
+    },
+    "do_objectID": "C6D86FE9-F11D-42D2-9821-C4515B5F422C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF078F4E-1C8C-43D0-8590-C5C5D2F5E554",
+  "verticalSpacing": 0
+}

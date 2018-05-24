@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2C33C7EA-4B2F-4B2F-900C-61E9881248D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DE3F751-988C-4FDE-87E1-82FF9B2CE73D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F76990EA-5B14-4648-AD4F-6E2E18924F5A",
+    "height": 24,
+    "width": 80,
+    "x": 13,
+    "y": 12
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "neue UAW",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A493674C-7798-4892-AF23-5C2E4D87F1D9",
+      "overrideName": "1C21BBFA-3380-4D59-8337-9944CA85EB27_stringValue",
+      "value": "Neue UAW"
+    }
+  ],
+  "overrides": {
+    "1C21BBFA-3380-4D59-8337-9944CA85EB27": "Neue UAW"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54CC23AE-3B54-49EB-95DC-2E49F806E13F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BE2BC99D-84CE-4090-B633-F8735ED9A0F8",
+  "verticalSpacing": 0
+}

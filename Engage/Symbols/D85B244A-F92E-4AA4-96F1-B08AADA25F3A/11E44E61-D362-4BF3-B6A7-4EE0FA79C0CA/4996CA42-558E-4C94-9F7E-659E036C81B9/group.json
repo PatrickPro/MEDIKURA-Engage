@@ -1,0 +1,206 @@
+{
+  "_class": "group",
+  "do_objectID": "4996CA42-558E-4C94-9F7E-659E036C81B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2933A26-E9B4-4139-9D09-D86A83A0F153",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8BCFA20-1C84-4118-B167-9D440F5E3730",
+    "height": 781,
+    "width": 180,
+    "x": 11,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4498C38A-E33B-43FF-933D-37F70B66632E"
+    },
+    {
+      "class": "text",
+      "id": "7D4E102F-CC43-40D1-8AB8-609D8DD93603"
+    },
+    {
+      "class": "text",
+      "id": "D78BDEE0-F31C-435D-A3A7-20AD053A9960"
+    },
+    {
+      "class": "text",
+      "id": "D1E9BDC2-0D3A-453C-8CBA-A42565A936A9"
+    },
+    {
+      "class": "text",
+      "id": "F1B410E6-D7ED-431C-9E68-634A77B4C937"
+    },
+    {
+      "class": "text",
+      "id": "896F3B2F-39D7-420D-84BA-1A650E4ED1CA"
+    },
+    {
+      "class": "text",
+      "id": "AE33032D-F9C4-450C-9E74-DC6E47E07C50"
+    },
+    {
+      "class": "text",
+      "id": "5D9EE5B6-68A9-46C6-A1D2-6BA8BAD17209"
+    },
+    {
+      "class": "text",
+      "id": "10764A4A-7BB7-434C-855C-6B76C13152FE"
+    },
+    {
+      "class": "text",
+      "id": "853DC8AA-41C3-453B-8AD4-30BF14293B39"
+    },
+    {
+      "class": "text",
+      "id": "FBFDE4C1-6BC0-4B9B-A15C-037A839B589B"
+    },
+    {
+      "class": "text",
+      "id": "5DA4508F-6328-4AC7-BB9C-91BE1FE071AC"
+    },
+    {
+      "class": "text",
+      "id": "82D3BB24-ACBE-4D49-A60B-921D2BBAB237"
+    },
+    {
+      "class": "text",
+      "id": "98695C6D-CA44-4DEB-ACD0-DC9B0F9597C9"
+    },
+    {
+      "class": "text",
+      "id": "5A79B187-A7DC-42CD-9394-1EA4D43F5626"
+    },
+    {
+      "class": "text",
+      "id": "77F314C0-AC44-4BFC-9790-A5CFDBE7A7B6"
+    },
+    {
+      "class": "text",
+      "id": "C9DDF010-550E-4BB1-9BAE-43163549DDCC"
+    },
+    {
+      "class": "text",
+      "id": "030812E9-ED12-44C3-8904-43A5C76E80CD"
+    },
+    {
+      "class": "text",
+      "id": "E9BD005E-F539-4155-9394-A2CBCC29DC3F"
+    },
+    {
+      "class": "text",
+      "id": "BA740B97-9CEA-45E7-B542-CDF1D62376B5"
+    },
+    {
+      "class": "text",
+      "id": "80604A9D-2E11-4830-BEAC-46051766EF07"
+    },
+    {
+      "class": "text",
+      "id": "4DC5AACD-D900-471F-8B85-2EF7796FDE54"
+    },
+    {
+      "class": "text",
+      "id": "1C7A7A6D-C04E-4EE8-8875-224353A83980"
+    },
+    {
+      "class": "text",
+      "id": "64B6D4A7-857C-4114-9EE4-DC065720D714"
+    },
+    {
+      "class": "text",
+      "id": "E31725AB-ABF1-407C-BFF7-E61AA14DB623"
+    },
+    {
+      "class": "text",
+      "id": "4A0A6900-D6AF-4DEB-A23B-8ED568CD1E4A"
+    },
+    {
+      "class": "text",
+      "id": "03BE2510-2C30-46E4-A3CE-7E5395231B43"
+    },
+    {
+      "class": "text",
+      "id": "9EF6D35B-6404-41AA-9F9A-46462F13AF2A"
+    },
+    {
+      "class": "text",
+      "id": "FE77284F-CD81-419E-B75F-E293C592E183"
+    },
+    {
+      "class": "text",
+      "id": "35CE6063-A4F3-4118-86B7-3DB41E22449B"
+    },
+    {
+      "class": "text",
+      "id": "AB14D6FA-3CB7-4E48-B36E-92E538427507"
+    },
+    {
+      "class": "text",
+      "id": "28FCA761-8688-4FAC-8D9A-06680764D171"
+    },
+    {
+      "class": "text",
+      "id": "A43C02D1-EAEB-4AC0-B983-A01F172D7BA3"
+    },
+    {
+      "class": "text",
+      "id": "7DE29960-806C-43A8-8DFE-A640013859C5"
+    },
+    {
+      "class": "text",
+      "id": "0C86382A-0023-4CA9-B242-0406C8656DF8"
+    },
+    {
+      "class": "text",
+      "id": "C5DC4427-AD5A-4115-A5BD-544700999E72"
+    },
+    {
+      "class": "text",
+      "id": "E4639C4E-A64E-4F0C-BDB0-8FC0076190BA"
+    },
+    {
+      "class": "text",
+      "id": "B61A0942-CC26-4C96-B638-2CB391FAC49C"
+    },
+    {
+      "class": "text",
+      "id": "E57A5037-5BC8-4A2F-ABA0-F69C14ED4CA8"
+    }
+  ],
+  "name": "Medikamente",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "F42E703E-5B4C-42EF-A82E-FF2784F9C0C6",
+      "opacity": 0.2
+    },
+    "do_objectID": "82200E9F-27C1-4A39-AC2D-ABFED83E496B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

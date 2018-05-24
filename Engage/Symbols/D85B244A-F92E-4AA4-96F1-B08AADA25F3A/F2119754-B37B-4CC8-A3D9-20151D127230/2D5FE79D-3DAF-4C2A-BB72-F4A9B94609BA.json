@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2D5FE79D-3DAF-4C2A-BB72-F4A9B94609BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48361E5F-4039-40DA-BFA7-B30834C92EF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D76BE9C-B601-4A03-A51F-3D670E8BB245",
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Overlay/50",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EF3F960-7EDE-4B0D-B53E-44B8917179A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5E4858C1-E58B-4F15-B2C7-B27CF3ACC5BE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

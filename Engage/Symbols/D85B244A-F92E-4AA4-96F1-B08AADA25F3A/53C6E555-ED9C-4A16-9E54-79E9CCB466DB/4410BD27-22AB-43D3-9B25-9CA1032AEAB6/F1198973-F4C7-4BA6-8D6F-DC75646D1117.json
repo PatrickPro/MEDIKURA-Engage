@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F1198973-F4C7-4BA6-8D6F-DC75646D1117",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "352EE315-0556-43AE-AF37-EC4ED03C735D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8D388F6-1781-463F-80EF-0ED031DD4942",
+    "height": 14,
+    "width": 47,
+    "x": 709,
+    "y": 13
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon / Status",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A4DE8F1-AAEE-4A9F-85AD-F604B7EA6924",
+      "overrideName": "FA073DF1-6440-43B2-AC93-0E71F684E048_stringValue",
+      "value": "Bearbeitet"
+    }
+  ],
+  "overrides": {
+    "FA073DF1-6440-43B2-AC93-0E71F684E048": "Bearbeitet"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07A5F92A-D45F-4680-919B-399007483EEA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF66A2EF-EE8B-4612-9A02-693FC7E2B67C",
+  "verticalSpacing": 0
+}

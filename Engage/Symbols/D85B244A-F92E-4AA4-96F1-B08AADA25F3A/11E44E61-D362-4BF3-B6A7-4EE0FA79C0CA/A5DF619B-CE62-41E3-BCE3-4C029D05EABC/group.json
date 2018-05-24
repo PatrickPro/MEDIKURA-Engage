@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A5DF619B-CE62-41E3-BCE3-4C029D05EABC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D59903E-DF73-448F-BB2C-527BE91E1662",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F2112BD-3F42-4394-9F29-BF47BCA1145A",
+    "height": 21,
+    "width": 215,
+    "x": 4,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "00C40934-C9B5-4AFB-ABCE-4EE16C19956C"
+    },
+    {
+      "class": "text",
+      "id": "14CF450D-5A24-4C11-BBB1-89C33B9B16EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "77F3CA53-984D-4EA1-9B17-00964C8089A1"
+    }
+  ],
+  "name": "Meine Filter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68EBC9DB-78F6-4146-BA46-812477234090",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
