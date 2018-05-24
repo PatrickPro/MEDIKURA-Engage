@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0C54A9EF-3869-4334-B239-48E8FAF53CE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 341,
+    "x": 34,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "27B7B938-F229-43FD-8242-29528ED5EE92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DB6F7C3-E431-4216-B09F-9D3A807969B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "123D2684-1C94-42C4-B107-3D3DE730C001"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B3B10CB-131F-4140-A818-22A0AB9AC044"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC7A858F-67F0-4161-B539-89A4D3E38D19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3630AD91-34B7-4ED9-8C14-C3F21A705714"
+    }
+  ],
+  "name": "Rueckfragen Patient",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

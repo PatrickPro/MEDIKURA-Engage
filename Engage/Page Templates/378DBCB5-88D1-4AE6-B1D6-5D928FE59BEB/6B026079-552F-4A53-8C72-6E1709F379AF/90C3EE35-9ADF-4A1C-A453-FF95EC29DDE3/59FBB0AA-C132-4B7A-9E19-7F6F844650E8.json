@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "59FBB0AA-C132-4B7A-9E19-7F6F844650E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F6C34D98-D902-4808-8EF5-B88DB6975EBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "122B4C6D-1638-40A8-B3D4-354F65820089",
+    "height": 49,
+    "width": 341,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rückfragen / Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AAD9A13-7971-4D14-8F48-85134C44E4B5",
+      "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/304D7BA0-831F-4FEB-8CF8-84FAF954A244_stringValue",
+      "value": "Kausalitätsbewertung?"
+    }
+  ],
+  "overrides": {
+    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
+      "304D7BA0-831F-4FEB-8CF8-84FAF954A244": "Kausalitätsbewertung?"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDD3DD76-B083-4706-91A7-B8C6D473ED8D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "183E6080-1793-4922-BC26-68FAC69999C4",
+  "verticalSpacing": 0
+}

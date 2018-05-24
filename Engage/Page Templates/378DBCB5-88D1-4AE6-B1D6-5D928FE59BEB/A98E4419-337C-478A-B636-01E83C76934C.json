@@ -23,7 +23,7 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Component/Modal",
@@ -63,7 +63,7 @@
       "_class": "overrideValue",
       "do_objectID": "725C57AC-D1C1-45C8-B07E-B6A0146FFFFD",
       "overrideName": "D956B3C4-E714-4C24-B45E-8FD117FF8993/74D3E9A7-E17E-4B05-A085-A11E7A2506D0/700D0004-2C1F-4936-91A8-101D825F6336/37BA94C3-658B-4ED5-9D69-8D333AB1B8D6_stringValue",
-      "value": "Abschicken"
+      "value": "Weiter"
     },
     {
       "_class": "overrideValue",
@@ -104,7 +104,7 @@
       },
       "74D3E9A7-E17E-4B05-A085-A11E7A2506D0": {
         "700D0004-2C1F-4936-91A8-101D825F6336": {
-          "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Abschicken"
+          "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Weiter"
         },
         "7C283718-A762-4629-A46B-D0B99BD3023F": {
           "0D2F666C-78C0-4D52-B117-E50E04DC3F58": {

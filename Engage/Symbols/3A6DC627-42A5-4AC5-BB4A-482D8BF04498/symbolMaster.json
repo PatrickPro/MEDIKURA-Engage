@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1320,
+  "changeIdentifier": 1464,
   "do_objectID": "3A6DC627-42A5-4AC5-BB4A-482D8BF04498",
   "exportOptions": {
     "_class": "exportOptions",
@@ -83,6 +83,14 @@
     {
       "class": "text",
       "id": "60FD4A2B-ABE5-45BA-A064-6F82262AF9F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40DE5842-CBE4-4CC8-A29F-540CA6FD4488"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A991A81-E207-4434-8A82-5A5E695165D5"
     }
   ],
   "name": "Itemlist / Entry / New / Rückfrage ",

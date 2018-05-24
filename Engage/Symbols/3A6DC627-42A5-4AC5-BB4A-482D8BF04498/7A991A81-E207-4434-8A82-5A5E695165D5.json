@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7A991A81-E207-4434-8A82-5A5E695165D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39FBEE68-53C4-4019-93AB-C028F7B9458D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ACDBDF1B-4D5F-4D4B-8711-77920F3DA81C",
+    "height": 11,
+    "width": 9.166666666666668,
+    "x": 18,
+    "y": 14
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / icon / doctor",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56DBF996-38BB-4E2C-A3B9-94AB6A3DCC58",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "592249F6-5EF8-49D7-9729-E65D0D085D13",
+  "verticalSpacing": 0
+}

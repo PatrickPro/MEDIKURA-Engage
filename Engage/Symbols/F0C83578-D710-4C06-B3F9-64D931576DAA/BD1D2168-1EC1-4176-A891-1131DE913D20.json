@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BD1D2168-1EC1-4176-A891-1131DE913D20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 82,
+    "width": 256,
+    "x": 38,
+    "y": 9
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "input / desktop / form / active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC8FA545-ED4F-4E1F-82E9-F35D0AB703F3",
+      "overrideName": "4DF15DF3-BA75-4420-A9BA-D00C41631DD3_stringValue",
+      "value": "Hier individuelle Frage eingeben"
+    }
+  ],
+  "overrides": {
+    "4DF15DF3-BA75-4420-A9BA-D00C41631DD3": "Hier individuelle Frage eingeben"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "070EFEFB-054C-4F17-BD0B-17465FED72F7",
+  "verticalSpacing": 0
+}

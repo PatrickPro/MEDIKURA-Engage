@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3B3B10CB-131F-4140-A818-22A0AB9AC044",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA79E30B-ED22-4C74-8AD7-965233A507BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9676CCA1-56CB-4948-BAD6-43CC24A60592",
+    "height": 49,
+    "width": 341,
+    "x": 0,
+    "y": 138
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rückfragen / Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8193863F-A6B6-4CB2-B6CB-150F2CF3E162",
+      "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/304D7BA0-831F-4FEB-8CF8-84FAF954A244_stringValue",
+      "value": "Weitere Medikamente?"
+    }
+  ],
+  "overrides": {
+    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
+      "304D7BA0-831F-4FEB-8CF8-84FAF954A244": "Weitere Medikamente?"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62D22086-8537-4A14-A75A-EFB008E5370E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "183E6080-1793-4922-BC26-68FAC69999C4",
+  "verticalSpacing": 0
+}

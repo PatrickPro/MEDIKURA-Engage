@@ -76,8 +76,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "306D36A1-E024-4C6F-9DA5-49FE947ACF2A"
+      "class": "symbolInstance",
+      "id": "AAF8167C-CBBF-4E18-AB21-C15770CE8B37"
     },
     {
       "class": "symbolInstance",
@@ -88,20 +88,8 @@
       "id": "A98E4419-337C-478A-B636-01E83C76934C"
     },
     {
-      "class": "shapeGroup",
-      "id": "16677748-9C12-4FEB-B72F-E192DA2809A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "774CD20F-A031-40A1-A288-2111EC00705D"
-    },
-    {
       "class": "group",
-      "id": "E59F046A-0EDF-4D87-91B0-8C5B5D2A14CC"
-    },
-    {
-      "class": "text",
-      "id": "304D7BA0-831F-4FEB-8CF8-84FAF954A244"
+      "id": "6B026079-552F-4A53-8C72-6E1709F379AF"
     }
   ],
   "layout": {
@@ -120,7 +108,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Engage Rückfrage",
+  "name": "Engage Rückfrage (1/2)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

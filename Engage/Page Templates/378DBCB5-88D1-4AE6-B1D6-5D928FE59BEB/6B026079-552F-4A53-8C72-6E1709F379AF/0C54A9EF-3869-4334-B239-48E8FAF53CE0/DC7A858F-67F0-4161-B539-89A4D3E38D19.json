@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DC7A858F-67F0-4161-B539-89A4D3E38D19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DA2DCAD-8D8A-4843-9508-1D1A618F575E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05B7FE0E-7389-4619-B5C8-C15B969FC632",
+    "height": 49,
+    "width": 341,
+    "x": 0,
+    "y": 184
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rückfragen / Checkbox Item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4646D2FD-B4CB-4637-BC2D-6BD27F9FC0EC",
+      "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/304D7BA0-831F-4FEB-8CF8-84FAF954A244_stringValue",
+      "value": "Jetztiger Zustand?"
+    }
+  ],
+  "overrides": {
+    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
+      "304D7BA0-831F-4FEB-8CF8-84FAF954A244": "Jetztiger Zustand?"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "393E893E-E428-4D4C-8085-C5EEF18938BF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "183E6080-1793-4922-BC26-68FAC69999C4",
+  "verticalSpacing": 0
+}
