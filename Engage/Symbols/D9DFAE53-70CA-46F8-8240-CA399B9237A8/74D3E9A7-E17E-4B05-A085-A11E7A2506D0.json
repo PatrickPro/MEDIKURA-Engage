@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74D3E9A7-E17E-4B05-A085-A11E7A2506D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 134,
+    "x": 428,
+    "y": 13
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer Button 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F004294-8F62-4C84-A5B5-C7A01F209015",
+      "overrideName": "80BC50C6-F0C7-4FBB-AF99-8008B7BCC02B/67C3879A-B006-45BE-B273-997263F4AA26_stringValue",
+      "value": "Save"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A43089EF-9DB9-42A9-B12E-B45D7CD8A6E4",
+      "overrideName": "700D0004-2C1F-4936-91A8-101D825F6336/37BA94C3-658B-4ED5-9D69-8D333AB1B8D6_stringValue",
+      "value": "Save"
+    }
+  ],
+  "overrides": {
+    "700D0004-2C1F-4936-91A8-101D825F6336": {
+      "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Save"
+    },
+    "80BC50C6-F0C7-4FBB-AF99-8008B7BCC02B": {
+      "67C3879A-B006-45BE-B273-997263F4AA26": "Save"
+    }
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3C49CE14-BC08-4F00-B7DC-CE6194114BC2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "C0F0992D-24E2-40EA-8421-F8BF7794ABE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9455BFCA-DCB5-4A7E-8E78-3BF9C06078D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B5A8695-88B9-4168-8F1D-963F1017EDEC",
+    "height": 25,
+    "width": 155,
+    "x": 6,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "AEDBEB0C-D4B8-44F1-BD81-3FB85AD79CF2"
+    },
+    {
+      "class": "bitmap",
+      "id": "94038734-C92C-486A-AFB8-FA9322C0B57E"
+    },
+    {
+      "class": "bitmap",
+      "id": "2B12CF10-AF37-4ADB-B9C8-6612FB834771"
+    },
+    {
+      "class": "bitmap",
+      "id": "C40FFC4C-9031-42E3-80EE-50C54476CC19"
+    },
+    {
+      "class": "bitmap",
+      "id": "8B2AEF99-B981-4EC0-9889-9A55D1205D1B"
+    }
+  ],
+  "name": "Gewohnheiten Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCDB5D40-4B0E-4F92-B684-F7817BD20CB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

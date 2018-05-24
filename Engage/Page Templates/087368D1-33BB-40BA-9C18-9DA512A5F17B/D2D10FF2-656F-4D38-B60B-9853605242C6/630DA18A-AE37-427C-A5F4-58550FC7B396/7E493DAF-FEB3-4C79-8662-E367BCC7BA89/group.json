@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "7E493DAF-FEB3-4C79-8662-E367BCC7BA89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31EC13D0-A454-43A0-8545-C810C1729CBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19CADFF9-29ED-43A7-A4A9-3DE9694C338A",
+    "height": 84,
+    "width": 713,
+    "x": 45,
+    "y": 279
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1D3B619F-B5E1-48CD-B5FE-E3230A59890E"
+    },
+    {
+      "class": "group",
+      "id": "24E17433-394A-4E34-AAE2-8A11599D5491"
+    },
+    {
+      "class": "text",
+      "id": "692006DB-972A-40BA-BBF8-FB39CD283C3E"
+    },
+    {
+      "class": "group",
+      "id": "C0F0992D-24E2-40EA-8421-F8BF7794ABE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAC9D713-7C5A-43A3-A395-D265F9DBFF46"
+    }
+  ],
+  "name": "Gewohnheiten & Erkrankungen",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62152B1B-027D-48DA-A659-94BDEF27C889",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

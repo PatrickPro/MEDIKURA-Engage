@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "1FD394BB-220C-41A1-9B32-C17F91843F70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7EECC6C-271F-4689-95B9-9A52EA7B4CF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06216E01-E035-47FF-972F-77DE97C929EB",
+    "height": 22,
+    "width": 274,
+    "x": 12,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0B6578C8-3CF8-47A8-B948-173C233DFFE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5781409-46C2-4523-A79C-BEBD6FD6CE2D"
+    }
+  ],
+  "name": "Headline Report List",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15A7B113-EB13-45D6-BC2D-C436B7906258",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

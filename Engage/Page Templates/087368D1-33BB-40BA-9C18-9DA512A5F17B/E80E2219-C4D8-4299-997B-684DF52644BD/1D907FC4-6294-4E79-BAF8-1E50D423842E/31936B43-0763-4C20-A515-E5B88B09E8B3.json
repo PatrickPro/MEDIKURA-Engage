@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "31936B43-0763-4C20-A515-E5B88B09E8B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1FA5A32-7E5A-4A51-A426-CC87D567172F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF8FA12F-F9FF-4C68-9EFC-E600E3DE473C",
+    "height": 39,
+    "width": 350,
+    "x": 0,
+    "y": 148
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABCDD973-14C7-4449-8BF2-1C09CC231BEB",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D04E3E72-DA3B-47F9-B16F-886068ED8476",
+      "overrideName": "1915DD67-F791-4092-8F3F-B8CA2D29AD8E_stringValue",
+      "value": "OU46YZ"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1F284DD-A456-4FBA-9055-4117AC326CBD",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "01. Mai"
+    }
+  ],
+  "overrides": {
+    "1915DD67-F791-4092-8F3F-B8CA2D29AD8E": "OU46YZ",
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament F"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDAB23BA-EFA1-4A13-B365-E52FDFBB2AA3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF078F4E-1C8C-43D0-8590-C5C5D2F5E554",
+  "verticalSpacing": 0
+}

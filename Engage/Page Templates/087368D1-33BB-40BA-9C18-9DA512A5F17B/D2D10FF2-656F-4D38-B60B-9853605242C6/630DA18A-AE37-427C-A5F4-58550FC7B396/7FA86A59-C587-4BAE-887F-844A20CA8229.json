@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7FA86A59-C587-4BAE-887F-844A20CA8229",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F80C114E-62FA-4959-B9E2-367596CCB558",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F15DA887-6395-4F74-84E5-74DFFF331387",
+    "height": 39,
+    "width": 680,
+    "x": 45,
+    "y": 101
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB343181-3816-4790-AF0E-2D8EE63CDEE3",
+      "overrideName": "1865BA21-E42E-4212-B1A2-E169E3FD5E18_stringValue",
+      "value": "Medikament AB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3863B81E-F94D-4F42-9F2F-8F1E405CA6FF",
+      "overrideName": "55EB8D08-F6B0-461D-9220-07A523309B22_stringValue",
+      "value": "2 Zäpfchen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA4DF3AF-2E70-4110-865E-447A365CE751",
+      "overrideName": "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA_stringValue",
+      "value": "Unbekannt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "927D24E2-9800-40C8-BEBE-C417D6AE8E1F",
+      "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
+      "value": "2"
+    }
+  ],
+  "overrides": {
+    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "Unbekannt",
+    "1865BA21-E42E-4212-B1A2-E169E3FD5E18": "Medikament AB",
+    "55EB8D08-F6B0-461D-9220-07A523309B22": "2 Zäpfchen",
+    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "2"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C68E1700-98E9-4620-BB56-52CFDF273352",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "49B69986-F8F3-4AFA-AC37-0664671AAD06",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3DEC2B78-E90C-48CF-8B5D-806F794F97B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70A263F1-218E-4B4C-91C3-2E639BACA97D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63BE3306-41A5-4BD1-A50D-F2A022D9F188",
+    "height": 39,
+    "width": 350,
+    "x": 0,
+    "y": 333
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA59F9C3-E9D0-417B-88CA-DA7FC445BB2C",
+      "overrideName": "D1161652-2BAA-4C09-A1AE-9AA67D2CF062_symbolID",
+      "value": "5EE2E74E-7994-4095-9B61-7A159B9DBBC1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D589070-3073-4FFC-B8B4-B9B29ED4766B",
+      "overrideName": "710A404A-A0C1-41DE-A41E-02DAFD67E25E_stringValue",
+      "value": "Medikament A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAA1A7EE-D992-411A-B23D-BB4A3A9D21DB",
+      "overrideName": "51A8F4CA-9B07-4A41-A2EB-E0162322868A_stringValue",
+      "value": "30. April"
+    }
+  ],
+  "overrides": {
+    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "30. April",
+    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament A",
+    "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
+      "symbolID": "5EE2E74E-7994-4095-9B61-7A159B9DBBC1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79C8AC6B-3F6A-4E4A-B2F7-0C5BADB0D510",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CF078F4E-1C8C-43D0-8590-C5C5D2F5E554",
+  "verticalSpacing": 0
+}

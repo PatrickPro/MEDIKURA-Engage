@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0B259590-EBD9-4A29-904A-34582BE72250",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11B37FE7-6057-44A5-9D59-210233FA69C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2688E50E-394E-46AB-870C-A8EF810F50F8",
+    "height": 36,
+    "width": 772,
+    "x": 0,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D1BD8EB2-E31B-476E-9C9E-AE91FB4DAAA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4814D1B-3BB0-40B8-872E-8ADB66AB1F8A"
+    },
+    {
+      "class": "text",
+      "id": "D761E5B7-6206-4A09-A6F0-178F3D930758"
+    }
+  ],
+  "name": "Report Info Bar Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51E0F596-D32B-497E-BE75-ECD074A39718",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "27500EC3-CC01-4E69-A8EB-A4FF3776C781",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52737FA3-3404-4C05-9B24-32E991E43A5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE093AF8-DB9C-4DE3-9BB5-3CD9EEA9E720",
+    "height": 17,
+    "width": 152,
+    "x": 21,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5551992B-5ED3-4AED-BB1C-A1A49F4063E5"
+    },
+    {
+      "class": "group",
+      "id": "3B2E37A3-A69C-49A6-826C-BE918B7BE46E"
+    }
+  ],
+  "name": "Patient Meldet selbst",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E224FFD-89D6-40A5-B963-0CDAB9F213A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

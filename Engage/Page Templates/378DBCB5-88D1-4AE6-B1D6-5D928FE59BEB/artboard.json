@@ -34,7 +34,7 @@
     "do_objectID": "FEA63B71-A8EA-4EC3-8F2C-C90B44E87410",
     "height": 1024,
     "width": 1440,
-    "x": 1093,
+    "x": 5868,
     "y": -219
   },
   "grid": {
@@ -76,24 +76,32 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "278F721C-A28A-42EC-A5BB-BE476F20245E"
+      "class": "group",
+      "id": "306D36A1-E024-4C6F-9DA5-49FE947ACF2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBCB2E03-BC6A-42C0-B3F8-545E91C42E36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A98E4419-337C-478A-B636-01E83C76934C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16677748-9C12-4FEB-B72F-E192DA2809A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "774CD20F-A031-40A1-A288-2111EC00705D"
     },
     {
       "class": "group",
-      "id": "611E3D58-8E09-4DE7-8AF6-CD6A806E7273"
+      "id": "E59F046A-0EDF-4D87-91B0-8C5B5D2A14CC"
     },
     {
-      "class": "group",
-      "id": "143214BB-A2AB-49D4-B3E1-A97E36853278"
-    },
-    {
-      "class": "group",
-      "id": "2C77927B-8801-4F1C-A8EB-69EC0BBEC44E"
-    },
-    {
-      "class": "group",
-      "id": "EA4B8076-5AEF-43E3-918E-60C7F1361875"
+      "class": "text",
+      "id": "304D7BA0-831F-4FEB-8CF8-84FAF954A244"
     }
   ],
   "layout": {
@@ -112,7 +120,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Engage Full",
+  "name": "Engage Rückfrage",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

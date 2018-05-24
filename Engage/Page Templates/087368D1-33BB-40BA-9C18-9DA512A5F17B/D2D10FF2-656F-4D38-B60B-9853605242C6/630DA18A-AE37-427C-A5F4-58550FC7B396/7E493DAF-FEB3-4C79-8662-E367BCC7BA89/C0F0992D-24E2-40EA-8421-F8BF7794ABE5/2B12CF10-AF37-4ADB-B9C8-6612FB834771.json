@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2B12CF10-AF37-4ADB-B9C8-6612FB834771",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F024526E-3DAA-4D69-A355-9A8ADD5E3022",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2557D5A4-6259-4552-A34E-ED72DB26374D",
+    "height": 24,
+    "width": 25.90476190476191,
+    "x": 61,
+    "y": 1
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/18c883a3dc2416e30c8571dee54d3462dd0ff222",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "noun_1732186_cc",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5F3329EF-CDFC-464A-8E72-E089D14F2E0C",
+      "opacity": 0.8
+    },
+    "do_objectID": "6FB2331B-8167-4834-918A-E997CABFA68B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

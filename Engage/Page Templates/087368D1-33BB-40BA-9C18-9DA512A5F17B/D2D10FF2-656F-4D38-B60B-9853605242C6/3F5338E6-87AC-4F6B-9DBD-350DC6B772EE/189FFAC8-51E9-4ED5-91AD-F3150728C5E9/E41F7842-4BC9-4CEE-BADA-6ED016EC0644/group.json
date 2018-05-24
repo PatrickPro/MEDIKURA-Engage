@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "E41F7842-4BC9-4CEE-BADA-6ED016EC0644",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E88F2E81-3E15-4C51-904D-777754C06531",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E5D42C57-2A20-4008-8DB6-F1DF54FABB63",
+    "height": 18,
+    "width": 12.85714285714286,
+    "x": 383,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0501D932-83BA-49E4-B8CF-64E6AAA307EA"
+    }
+  ],
+  "name": "Baby",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5EB48B47-F20A-4A64-AC9C-2F00A5371C5A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
