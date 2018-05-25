@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B37E7347-19D9-4907-9770-14A732AB7265",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 902,
+    "width": 1680,
+    "x": 10488,
+    "y": -219
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7AEF6796-6B61-484C-B8CB-724E5284299D",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "EAB80961-A68A-49E3-9832-5A6130CECDFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE204197-53B8-41DE-BF3E-7588495C8A0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9EC6BD4-3A84-4B8C-A80E-EC61DA76BCC2"
+    },
+    {
+      "class": "text",
+      "id": "CD629FCD-B504-45C8-874B-6CB2C8A4C4F9"
+    },
+    {
+      "class": "text",
+      "id": "6EF63A87-998D-4509-AF7C-DF890877AFDA"
+    },
+    {
+      "class": "bitmap",
+      "id": "D1743165-CA9E-4DCB-B91B-7A932B74617B"
+    },
+    {
+      "class": "text",
+      "id": "A2CBC012-9AC4-4E4D-8D4E-5F78D5DA60A7"
+    },
+    {
+      "class": "text",
+      "id": "C63833CF-4650-4E53-911B-75909B6F2F92"
+    }
+  ],
+  "name": "Doc Interface",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 902,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 1680
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
