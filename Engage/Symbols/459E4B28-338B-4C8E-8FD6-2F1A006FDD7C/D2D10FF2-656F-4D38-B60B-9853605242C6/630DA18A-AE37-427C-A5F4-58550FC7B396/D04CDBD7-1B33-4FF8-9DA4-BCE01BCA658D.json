@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D04CDBD7-1B33-4FF8-9DA4-BCE01BCA658D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "598D52DD-E399-4073-8F6B-837E19C551D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01B4C29F-B749-455B-9636-397DF95EF949",
+    "height": 39,
+    "width": 680,
+    "x": 45,
+    "y": 261
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Itemlist / Entry ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76112286-A19B-4078-8C52-636704E3536B",
+      "overrideName": "55EB8D08-F6B0-461D-9220-07A523309B22_stringValue",
+      "value": "100 ml "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7904783-326B-40FE-80E2-D95D48439661",
+      "overrideName": "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A692D833-C241-40AA-B63E-C412EBE3240C",
+      "overrideName": "3F5D3E9E-7C74-4F46-8CBD-AC3020E3B8E4_stringValue",
+      "value": "Veränderter Geruchssinn"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DBF102E-08DF-4954-AE69-805E3B48DEAD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AB12CEB9-0CC4-4D99-B6DE-F3A1AFA7437F",
+  "verticalSpacing": 0
+}

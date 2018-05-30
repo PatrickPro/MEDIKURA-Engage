@@ -48,11 +48,6 @@
       "value": "Die Geschmacksnerven versagen, vieles schmeckt bitter, anderes gar nicht. Veränderter Geruchssinn"
     }
   ],
-  "overrides": {
-    "3F5D3E9E-7C74-4F46-8CBD-AC3020E3B8E4": "Die Geschmacksnerven versagen, vieles schmeckt bitter, anderes gar nicht. Veränderter Geruchssinn",
-    "55EB8D08-F6B0-461D-9220-07A523309B22": "100 ml ",
-    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "3"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

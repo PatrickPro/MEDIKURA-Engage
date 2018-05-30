@@ -17,16 +17,17 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "AF38101D-8517-4100-81FA-02097328A466",
-    "height": 24,
-    "width": 29.68421052631579,
-    "x": 326,
-    "y": 0
+    "height": 22.98089171974522,
+    "width": 25.63069438301637,
+    "x": 328.5568332596196,
+    "y": 0.4585987261146497
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/303ce391ce23a2c9a3049b2bf29d4519c5fde21b",
+    "_ref": "images/4c98f18a3ad7c15b8225adae09e2a836718b21c9.png",
     "_ref_class": "MSImageData"
   },
+  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

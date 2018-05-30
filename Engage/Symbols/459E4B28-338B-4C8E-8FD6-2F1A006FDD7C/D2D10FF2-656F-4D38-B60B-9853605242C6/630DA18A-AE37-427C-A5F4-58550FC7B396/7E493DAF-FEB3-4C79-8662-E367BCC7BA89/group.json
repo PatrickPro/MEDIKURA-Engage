@@ -17,15 +17,15 @@
     "do_objectID": "19CADFF9-29ED-43A7-A4A9-3DE9694C338A",
     "height": 84,
     "width": 713,
-    "x": 45,
-    "y": 279
+    "x": 47,
+    "y": 303
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -45,7 +45,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EAC9D713-7C5A-43A3-A395-D265F9DBFF46"
+      "id": "247D233E-6D34-4A2D-99FB-2694F7B157E2"
     }
   ],
   "name": "Gewohnheiten & Erkrankungen",

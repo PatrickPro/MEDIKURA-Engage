@@ -1,10 +1,91 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 56,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-SemiBold",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 19,
+        "location": 56
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 21,
+        "location": 75
+      }
+    ],
+    "string": "Diese UAW Meldung muss laut § 420 PatientenSchutzGesetz bis zum 01.06.2018 abgeschlossen werden."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "79E836C3-C341-4E61-B5D7-D85FD001FDFB",
@@ -51,17 +132,25 @@
       "_class": "textStyle",
       "do_objectID": "57997CB3-D25F-47BB-8A0C-8FEA48F3117F",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.2902374565601349,
           "green": 0.2901752889156342,
           "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QEE9wZW5TYW5zLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 12
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGISJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBEQWk5TVGFiU3RvcHNWJGNsYXNzXE5TVGV4dEJsb2Nrc18QH05TVGlnaHRlbmluZ0ZhY3RvckZvclRydW5jYXRpb25bTlNUZXh0TGlzdHOAAIAEgAIjP6mZmaAAAACAAtIUChUWWk5TLm9iamVjdHOggAPSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGhxYTlNPYmplY3TSGBkeH18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlox4gHF8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRIyRUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAE4AWQBgAG0AjwCbAJ0AnwChAKoArACxALwAvQC/AMQAzwDYAOAA4wDsAPEBCwEPASIBNAE3ATwAAAAAAAACAQAAAAAAAAAlAAAAAAAAAAAAAAAAAAABPg=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

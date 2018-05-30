@@ -52,18 +52,6 @@
       "value": "Haben Sie das Medikament B wieder abgesetzt?"
     }
   ],
-  "overrides": {
-    "12546A18-B6B4-4A6A-9960-1A2A6B575D01": "Rückfrage zu \"Medikament A\"",
-    "7B56CF0C-97C5-4806-A491-041C5FB5AC2D": {
-      "2682BB8E-17C1-4819-B254-98A7EF9D00EA": {
-        "0A66BF71-1963-4749-BF83-E94681263CF3": "Seit wann nehmen Sie das Medikament 1 ein?"
-      },
-      "75F50897-9F9F-4AED-A250-4E8310E563F1": {
-        "0A66BF71-1963-4749-BF83-E94681263CF3": "Haben Sie das Medikament B wieder abgesetzt?"
-      }
-    },
-    "BE7132A2-87CC-41CC-B21B-8C9F4777369F": "Sehr geehrter Patient, wir haben eine Rückfrage zu Ihrer Nebenwirkungsmeldung erhalten. Bitte nehmen Sie sich kurz Zeit diese zu beantworten. Geben Sie keine persönlichen Daten, wie Konaktinformationen an, wenn Sie Ihre Identität schützen möchten. Vielen Dank! Ihr NEBENWIRKUNGEN.EU Team"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

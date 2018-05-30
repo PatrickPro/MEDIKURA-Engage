@@ -48,13 +48,6 @@
       "value": "29. April"
     }
   ],
-  "overrides": {
-    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "29. April",
-    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament I",
-    "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
-      "symbolID": "5EE2E74E-7994-4095-9B61-7A159B9DBBC1"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

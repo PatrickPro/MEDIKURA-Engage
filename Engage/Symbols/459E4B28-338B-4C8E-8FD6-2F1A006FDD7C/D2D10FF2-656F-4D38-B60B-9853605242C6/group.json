@@ -18,14 +18,14 @@
     "height": 934,
     "width": 772,
     "x": 640,
-    "y": 98
+    "y": 99
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -58,6 +58,10 @@
     {
       "class": "group",
       "id": "36321BDF-26D4-4E1E-A457-D5AD32E02D8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E41A3A3A-A908-4312-93D3-28E5F16DCE53"
     }
   ],
   "name": "Report",

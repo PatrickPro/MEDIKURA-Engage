@@ -42,12 +42,6 @@
       "value": "Hier schreiben..."
     }
   ],
-  "overrides": {
-    "0A66BF71-1963-4749-BF83-E94681263CF3": "Frage 2",
-    "46BC4B6C-6870-4E16-9F0E-4BA39ABA6F0F": {
-      "1E911D87-D727-454C-A824-81B25858CB94": "Hier schreiben..."
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -18,7 +18,7 @@
     "height": 14,
     "width": 8,
     "x": 638,
-    "y": 321
+    "y": 341
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,8 +30,6 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

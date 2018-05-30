@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3633609694,
+            "green": 0.3633609694,
+            "red": 0.3633609694
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Light",
+              "size": 16.2
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
+          }
+        },
+        "length": 40,
+        "location": 0
+      }
+    ],
+    "string": "Rückfragen an \nPatient oder Arzt stellen"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8687C9C1-45FD-4F8C-BA90-43F3F7E546A7",
@@ -60,17 +87,25 @@
       "_class": "textStyle",
       "do_objectID": "BF3905E3-B036-4187-AC9C-39314A1620C4",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.3633609694,
           "green": 0.3633609694,
           "red": 0.3633609694
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMDMzMzMzM15PcGVuU2Fucy1MaWdodNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Light",
+            "size": 16.2
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGU1RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIESElKy4xNDc6PUBDRklMT1UkbnVsbNQJCgsMDQ4PEFpOU1RhYlN0b3BzW05TQWxpZ25tZW50XxAfTlNUaWdodGVuaW5nRmFjdG9yRm9yVHJ1bmNhdGlvblYkY2xhc3OAAhACIz+pmZmgAAAAgBHSEgwTIFpOUy5vYmplY3RzrBQVFhcYGRobHB0eH4ADgAWABoAHgAiACYAKgAuADIANgA6AD4AQ0gwiIyRaTlNMb2NhdGlvboAEI0A8AAAAAAAA0iYnKClaJGNsYXNzbmFtZVgkY2xhc3Nlc1lOU1RleHRUYWKiKCpYTlNPYmplY3TSDCIjLYAEI0BMAAAAAAAA0gwiIzCABCNAVQAAAAAAANIMIiMzgAQjQFwAAAAAAADSDCIjNoAEI0BhgAAAAAAA0gwiIzmABCNAZQAAAAAAANIMIiM8gAQjQGiAAAAAAADSDCIjP4AEI0BsAAAAAAAA0gwiI0KABCNAb4AAAAAAANIMIiNFgAQjQHGAAAAAAADSDCIjSIAEI0BzQAAAAAAA0gwiI0uABCNAdQAAAAAAANImJ01OV05TQXJyYXmiTSrSJidQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSKl8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRVVZUcm9vdIABAAgAEQAaACMALQAyADcATABSAFsAZgByAJQAmwCdAJ8AqACqAK8AugDHAMkAywDNAM8A0QDTANUA1wDZANsA3QDfAOEA5gDxAPMA/AEBAQwBFQEfASIBKwEwATIBOwFAAUIBSwFQAVIBWwFgAWIBawFwAXIBewGAAYIBiwGQAZIBmwGgAaIBqwGwAbIBuwHAAcIBywHQAdIB2wHgAegB6wHwAgoCDgIhAjMCNgI7AAAAAAAAAgEAAAAAAAAAVwAAAAAAAAAAAAAAAAAAAj0="
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tighteningFactorForTruncation": 0.05
         }
       },
       "verticalAlignment": 0

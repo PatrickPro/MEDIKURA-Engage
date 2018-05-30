@@ -60,21 +60,6 @@
       "value": "Cancel"
     }
   ],
-  "overrides": {
-    "700D0004-2C1F-4936-91A8-101D825F6336": {
-      "AE222C52-7335-4C89-A625-E03D2B143C8A": "Cancel",
-      "symbolID": "69D79467-87AA-4C2E-9778-894C4E94528F"
-    },
-    "7C283718-A762-4629-A46B-D0B99BD3023F": {
-      "0D2F666C-78C0-4D52-B117-E50E04DC3F58": {
-        "symbolID": "0FE461FE-99D8-4347-9B6A-34A0FAEBC327"
-      }
-    },
-    "80BC50C6-F0C7-4FBB-AF99-8008B7BCC02B": {
-      "00B9C887-ADE9-43CD-974E-6E61332C0F11": "Cancel",
-      "symbolID": "69D79467-87AA-4C2E-9778-894C4E94528F"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

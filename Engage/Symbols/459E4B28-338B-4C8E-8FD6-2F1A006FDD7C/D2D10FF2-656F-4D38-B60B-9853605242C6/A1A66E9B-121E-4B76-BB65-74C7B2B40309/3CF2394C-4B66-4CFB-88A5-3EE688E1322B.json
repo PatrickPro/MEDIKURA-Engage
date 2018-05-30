@@ -52,16 +52,20 @@
       "do_objectID": "3D984877-C7CF-4EA6-B05B-25777A18A500",
       "overrideName": "40DE5842-CBE4-4CC8-A29F-540CA6FD4488_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "130FE6B9-0A37-405A-899B-5B61C325201D",
+      "overrideName": "DEC31CCB-B5BC-45EE-A532-63683C0A915E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29F5505F-68FC-46C3-A318-3BF8BB07E279",
+      "overrideName": "CC0FAB6F-463E-42C5-92A1-469296CEEA52_stringValue",
+      "value": " "
     }
   ],
-  "overrides": {
-    "40DE5842-CBE4-4CC8-A29F-540CA6FD4488": {
-      "symbolID": ""
-    },
-    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1",
-    "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF": " ",
-    "ECB3214B-7B49-47D0-A28D-D83AAE069802": "Wann sind die Nebenwirkungen aufgetreten und wie lange haben diese angedauert?  "
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

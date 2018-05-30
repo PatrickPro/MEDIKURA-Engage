@@ -48,11 +48,6 @@
       "value": "01. Mai"
     }
   ],
-  "overrides": {
-    "1915DD67-F791-4092-8F3F-B8CA2D29AD8E": "AW71GH",
-    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
-    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament AB"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

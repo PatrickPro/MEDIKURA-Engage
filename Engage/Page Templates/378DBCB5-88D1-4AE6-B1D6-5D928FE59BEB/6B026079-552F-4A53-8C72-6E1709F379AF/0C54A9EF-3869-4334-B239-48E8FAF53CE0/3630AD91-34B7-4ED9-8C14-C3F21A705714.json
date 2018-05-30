@@ -40,12 +40,6 @@
       "value": "Hier individuelle Frage eingeben"
     }
   ],
-  "overrides": {
-    "BD1D2168-1EC1-4176-A891-1131DE913D20": {
-      "F7AF2EC0-8824-433E-9019-DB26A079043C": "Hier individuelle Frage eingeben",
-      "symbolID": "A96E6001-FDB2-4F9F-A2B9-9DE3292EF49C"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGnJ1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QJgcIERIYIyQlJjIzNDU2Nzg+QkpLTE1OUVVdYGNmcHyBhIyNkJSYVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAjgAOAJV8QUFdlbGNoZSBGb2xnZW4gZGVyIFVBVyBzaW5kIGVpbmdldHJlZ2VuPyBCaXR0ZSBiZXVydGVpbGVuIFNpZSBkaWUgRm9sZ2VuIGRlciBVQVcu0hMMFBdaTlMub2JqZWN0c6IVFoAEgByAItMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEIAYgA9fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLS2ADYAOgA2ADYAPU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAA0jk6OzxaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiOz1YTlNPYmplY3TSDD9AQV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBeAEdMZEwxDRkmiREWAEoATokdIgBSAFYAWXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABfEBBPcGVuU2Fucy1SZWd1bGFy0jk6T1BfEBNOU011dGFibGVEaWN0aW9uYXJ5o087PdI5OlJTXxAQTlNGb250RGVzY3JpcHRvcqJUPV8QEE5TRm9udERlc2NyaXB0b3LUVgxXWFlaW1taTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAbgBmAGdITDF5foIAa0jk6YWJXTlNBcnJheaJhPdI5OmRlXxAQTlNQYXJhZ3JhcGhTdHlsZaJkPdMZEwxnayKjGx0cgAWAB4AGo2xtboAdgB6AH4AP0xkTDHF2IqQoKSorgAmACoALgAykLS4tLYANgA6ADYANgA/UVgxXWFlaW1uAAIAbgBmAGdIMP0CDgBeAINMZEwyFiEmiREWAEoATokeKgBSAIYAWXk9wZW5TYW5zLUxpZ2h00jk6jo9eTlNNdXRhYmxlQXJyYXmjjmE90pEMkpNXTlMuZGF0YUQoACgBgCTSOTqVll1OU011dGFibGVEYXRho5WXPVZOU0RhdGHSOTqZml8QEk5TQXR0cmlidXRlZFN0cmluZ6KbPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGen1Ryb290gAEACAARABoAIwAtADIANwBgAGYAbwB4AIoAlwCeAKAAogCkAKYA+QD+AQkBDAEOARABEgEZASEBJQEnASkBKwEvATEBMwE1ATcBZAGGAZkBoAGlAacBqQGrAa0BsgG0AbYBuAG6AbwBwAHGAcsB0QHaAeMB6AHzAfwCCQIMAhUCGgI3AjkCOwJCAkUCRwJJAkwCTgJQAlICaAJ+AocCmgKfArUCuQK+AtEC1ALnAvAC+wMIAxQDFgMYAxoDHAMhAyIDJAMpAzEDNAM5A0wDTwNWA1oDXANeA2ADZANmA2gDagNsA3MDeAN6A3wDfgOAA4UDhwOJA4sDjQOPA5gDmgOcA54DoAOlA6cDqQOwA7MDtQO3A7oDvAO+A8ADzwPUA+MD5wPsA/QD+QP7BAAEDgQSBBkEHgQzBDYESwRdBGAEZQAAAAAAAAIBAAAAAAAAAKAAAAAAAAAAAAAAAAAAAARn"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 40,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Light",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 40,
+        "location": 40
+      }
+    ],
+    "string": "Welche Folgen der UAW sind eingetregen? Bitte beurteilen Sie die Folgen der UAW."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CD629FCD-B504-45C8-874B-6CB2C8A4C4F9",
@@ -51,17 +103,24 @@
       "_class": "textStyle",
       "do_objectID": "E01623B2-8404-482D-963D-B009176CA34C",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEE9wZW5TYW5zLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Regular",
+            "size": 16
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVG1UkbnVsbNQJCgsMDQ4PD1pOU1RhYlN0b3BzViRjbGFzc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAAIAEgAKAAtISChMUWk5TLm9iamVjdHOggAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiGBpYTlNPYmplY3TSFhccHV8QEE5TUGFyYWdyYXBoU3R5bGWiHBpfEA9OU0tleWVkQXJjaGl2ZXLRICFUcm9vdIABCBEaIy0yNz1DTFdea3d5e31/hI+Qkpeiq7O2v8TX2uzv9AAAAAAAAAEBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAD2"
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

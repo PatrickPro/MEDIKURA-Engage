@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EC02BFFB-EFD0-43F7-AD53-478C93A5C1B2",
-    "height": 371,
+    "height": 387,
     "width": 770,
     "x": 1,
-    "y": 138
+    "y": 137
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,6 @@
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "6B3EBF2C-B7AD-499E-9F11-8146CDED5BFC"
-    },
-    {
-      "class": "text",
-      "id": "4305EE6A-E238-4FB4-AE9C-C2B62E9DB4C7"
-    },
     {
       "class": "symbolInstance",
       "id": "9BD9B58E-3530-4A44-A4FF-1EE239676F53"
@@ -46,6 +38,10 @@
     {
       "class": "text",
       "id": "8D9F41FD-3A12-4D5F-AC90-0170995ABD44"
+    },
+    {
+      "class": "text",
+      "id": "4E4D1A84-7813-4B6B-BE57-DE5EC23641D9"
     },
     {
       "class": "text",
@@ -74,6 +70,10 @@
     {
       "class": "symbolInstance",
       "id": "977BDCE3-BE42-476E-A03E-4AB2F51B9F5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D04CDBD7-1B33-4FF8-9DA4-BCE01BCA658D"
     },
     {
       "class": "shapeGroup",

@@ -53,23 +53,11 @@
       "overrideName": "77F7E3CB-0665-4CD2-B570-3CFE8E761433_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/9cc544459792e5609f3ff5d57b15e5c2793eb0a0",
+        "_ref": "images/9cc544459792e5609f3ff5d57b15e5c2793eb0a0.png",
         "_ref_class": "MSImageData"
       }
     }
   ],
-  "overrides": {
-    "411531BC-9F40-43D4-B25B-63FC300B89CF": "Ihre Identität bleibt dabei geschützt. Bitte nehmen Sie sich die Zeit um die folgenden Fragen zu beantworten. Dadurch helfen Sie weiter die Arzneimittelsicherheit zu verbessern. ",
-    "77F7E3CB-0665-4CD2-B570-3CFE8E761433": {
-      "_class": "MSJSONFileReference",
-      "_ref": "images/9cc544459792e5609f3ff5d57b15e5c2793eb0a0",
-      "_ref_class": "MSImageData"
-    },
-    "93FFA3D2-0679-418E-9A8C-1155EC95EB95": "Der Hersteller hat Rückfragen an Sie.",
-    "DBF74D59-E010-4A83-A666-D8C880AE11CD": {
-      "E7BA415A-6C62-48F5-82EA-C9A881B525B8": "Beantworten"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

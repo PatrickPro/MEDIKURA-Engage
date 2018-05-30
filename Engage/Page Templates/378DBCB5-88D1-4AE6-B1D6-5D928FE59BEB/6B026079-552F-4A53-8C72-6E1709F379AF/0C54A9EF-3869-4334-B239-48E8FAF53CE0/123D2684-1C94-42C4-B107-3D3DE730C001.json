@@ -33,14 +33,9 @@
       "_class": "overrideValue",
       "do_objectID": "8E2D88E5-A293-444B-B20A-C3C516875751",
       "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/304D7BA0-831F-4FEB-8CF8-84FAF954A244_stringValue",
-      "value": "Anwendungsgebiet?"
+      "value": "Grund der Einnahme?"
     }
   ],
-  "overrides": {
-    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
-      "304D7BA0-831F-4FEB-8CF8-84FAF954A244": "Anwendungsgebiet?"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

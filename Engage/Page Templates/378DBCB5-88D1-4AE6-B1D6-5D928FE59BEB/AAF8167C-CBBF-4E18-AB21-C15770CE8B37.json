@@ -38,18 +38,10 @@
     {
       "_class": "overrideValue",
       "do_objectID": "78E09100-B192-4883-ACA8-1D096C373C77",
-      "overrideName": "EAC9D713-7C5A-43A3-A395-D265F9DBFF46_symbolID",
+      "overrideName": "247D233E-6D34-4A2D-99FB-2694F7B157E2/EAC9D713-7C5A-43A3-A395-D265F9DBFF46_symbolID",
       "value": ""
     }
   ],
-  "overrides": {
-    "A022781D-6630-475C-81C6-25C8DCF6074D": {
-      "symbolID": ""
-    },
-    "EAC9D713-7C5A-43A3-A395-D265F9DBFF46": {
-      "symbolID": ""
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

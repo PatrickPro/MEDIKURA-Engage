@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "3D43E10F-1ACF-428B-A397-7A3013704DC8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "632E8808-B990-4C1E-88D0-F6C9E677C0BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8755C658-35EF-4198-99C0-865806F8E2F7",
+    "height": 39,
+    "width": 141,
+    "x": 433,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "640F8375-C4DF-48D3-8661-00AEE768C304"
+    },
+    {
+      "class": "text",
+      "id": "B110C5E9-867D-4C32-98D1-1876B647CD97"
+    }
+  ],
+  "name": "Button Upgrade",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "308E2BF2-53C3-414E-8391-C06749A6D322",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

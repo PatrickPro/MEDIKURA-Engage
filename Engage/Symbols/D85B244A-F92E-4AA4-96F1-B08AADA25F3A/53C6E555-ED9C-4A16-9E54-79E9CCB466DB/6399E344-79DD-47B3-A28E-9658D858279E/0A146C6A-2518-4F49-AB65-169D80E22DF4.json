@@ -54,14 +54,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "40DE5842-CBE4-4CC8-A29F-540CA6FD4488": {
-      "symbolID": ""
-    },
-    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1",
-    "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF": " ",
-    "ECB3214B-7B49-47D0-A28D-D83AAE069802": "Wie lange haben Sie die Medikamente eingenommen? "
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

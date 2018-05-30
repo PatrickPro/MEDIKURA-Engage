@@ -48,15 +48,6 @@
       "value": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
     }
   ],
-  "overrides": {
-    "0518145A-ABD4-4433-A8DF-D9DE2ACCCFAC": {
-      "symbolID": "4B01FFEE-6C2D-4735-8116-C6A1A790F03D"
-    },
-    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament V",
-    "D1161652-2BAA-4C09-A1AE-9AA67D2CF062": {
-      "symbolID": "EE1BD2F7-A79D-48C6-A785-7620E01CBBC3"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

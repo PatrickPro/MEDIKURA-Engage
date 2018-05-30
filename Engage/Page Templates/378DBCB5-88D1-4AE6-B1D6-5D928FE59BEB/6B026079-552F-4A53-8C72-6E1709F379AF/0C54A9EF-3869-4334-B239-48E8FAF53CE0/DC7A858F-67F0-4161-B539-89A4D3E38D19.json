@@ -33,14 +33,9 @@
       "_class": "overrideValue",
       "do_objectID": "4646D2FD-B4CB-4637-BC2D-6BD27F9FC0EC",
       "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/304D7BA0-831F-4FEB-8CF8-84FAF954A244_stringValue",
-      "value": "Jetztiger Zustand?"
+      "value": "Aktueller Zustand?"
     }
   ],
-  "overrides": {
-    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
-      "304D7BA0-831F-4FEB-8CF8-84FAF954A244": "Jetztiger Zustand?"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

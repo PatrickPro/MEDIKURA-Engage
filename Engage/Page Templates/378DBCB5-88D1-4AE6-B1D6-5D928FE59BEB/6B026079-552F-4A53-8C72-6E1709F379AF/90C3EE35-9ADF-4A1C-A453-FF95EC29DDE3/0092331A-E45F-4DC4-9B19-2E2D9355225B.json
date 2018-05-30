@@ -42,16 +42,6 @@
       "value": "Sind Ihnen weitere relevante Vorerkrankungen des Patienten bekannt?"
     }
   ],
-  "overrides": {
-    "BD1D2168-1EC1-4176-A891-1131DE913D20": {
-      "4DF15DF3-BA75-4420-A9BA-D00C41631DD3": "Sind Ihnen weitere relevante Vorerkrankungen des Patienten bekannt?"
-    },
-    "EE136385-0F04-4199-B3E8-02878808BE4F": {
-      "774CD20F-A031-40A1-A288-2111EC00705D": {
-        "symbolID": "B222B06C-957D-490C-9644-A0A652E9ED4A"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

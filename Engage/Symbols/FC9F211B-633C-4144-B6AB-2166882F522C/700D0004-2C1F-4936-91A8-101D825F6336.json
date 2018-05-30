@@ -34,9 +34,6 @@
       "value": "Button Text"
     }
   ],
-  "overrides": {
-    "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Button Text"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

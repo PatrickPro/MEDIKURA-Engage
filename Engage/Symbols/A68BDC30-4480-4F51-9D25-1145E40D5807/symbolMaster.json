@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 969,
+  "changeIdentifier": 1213,
   "do_objectID": "A68BDC30-4480-4F51-9D25-1145E40D5807",
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,6 +55,10 @@
     {
       "class": "text",
       "id": "CC96C616-7CBC-427C-AFC9-6483D98566C7"
+    },
+    {
+      "class": "text",
+      "id": "3A6F3C73-F4B8-4A0D-93E4-99FE2087B599"
     },
     {
       "class": "shapeGroup",

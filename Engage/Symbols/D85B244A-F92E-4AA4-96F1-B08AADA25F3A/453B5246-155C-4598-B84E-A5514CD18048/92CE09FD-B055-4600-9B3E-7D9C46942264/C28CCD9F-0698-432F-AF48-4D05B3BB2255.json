@@ -42,10 +42,6 @@
       "value": "01. Mai"
     }
   ],
-  "overrides": {
-    "51A8F4CA-9B07-4A41-A2EB-E0162322868A": "01. Mai",
-    "710A404A-A0C1-41DE-A41E-02DAFD67E25E": "Medikament B"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

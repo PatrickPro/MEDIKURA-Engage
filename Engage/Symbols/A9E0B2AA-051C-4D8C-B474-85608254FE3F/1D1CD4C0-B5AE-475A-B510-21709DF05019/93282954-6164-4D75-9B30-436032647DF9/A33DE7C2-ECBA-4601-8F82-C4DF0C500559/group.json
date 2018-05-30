@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A33DE7C2-ECBA-4601-8F82-C4DF0C500559",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A9BE9B8-6C2E-4B00-BD81-31C639D5BAA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90D79109-2C8F-41BA-8B11-F8474AFB73F9",
+    "height": 125,
+    "width": 136,
+    "x": 0,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EB7E0517-5F88-4696-933C-37A5E18CCF8C"
+    },
+    {
+      "class": "group",
+      "id": "56481150-F46E-471D-8362-8D5D2F67CAD9"
+    }
+  ],
+  "name": "CSV",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3531ED15-CA80-422C-AF88-77E90864C888",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

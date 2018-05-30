@@ -40,14 +40,6 @@
       "value": "Save"
     }
   ],
-  "overrides": {
-    "700D0004-2C1F-4936-91A8-101D825F6336": {
-      "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Save"
-    },
-    "80BC50C6-F0C7-4FBB-AF99-8008B7BCC02B": {
-      "67C3879A-B006-45BE-B273-997263F4AA26": "Save"
-    }
-  },
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,

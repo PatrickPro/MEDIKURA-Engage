@@ -61,10 +61,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "00955675-9FB7-4367-842B-FE238CF9C848"
-    },
-    {
-      "class": "shapeGroup",
       "id": "3497DDAC-F9E1-49A8-9C34-FB15D90527D3"
     },
     {
@@ -76,8 +72,8 @@
       "id": "C95632E6-F835-48F4-BE8D-09926342C06A"
     },
     {
-      "class": "text",
-      "id": "84A0BA69-26D5-47AC-A961-32198FEEC33C"
+      "class": "group",
+      "id": "348BDF33-1EBE-46B7-BA6E-54BAD8BA0D0E"
     }
   ],
   "name": "Enterprise",

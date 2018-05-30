@@ -39,7 +39,7 @@
       "_class": "overrideValue",
       "do_objectID": "3863B81E-F94D-4F42-9F2F-8F1E405CA6FF",
       "overrideName": "55EB8D08-F6B0-461D-9220-07A523309B22_stringValue",
-      "value": "2 Zäpfchen"
+      "value": "2 Zäpfchen pro Tag"
     },
     {
       "_class": "overrideValue",
@@ -54,12 +54,6 @@
       "value": "2"
     }
   ],
-  "overrides": {
-    "068C5DDF-66F7-4CA5-A886-62E0CBBA87EA": "Unbekannt",
-    "1865BA21-E42E-4212-B1A2-E169E3FD5E18": "Medikament AB",
-    "55EB8D08-F6B0-461D-9220-07A523309B22": "2 Zäpfchen",
-    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "2"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

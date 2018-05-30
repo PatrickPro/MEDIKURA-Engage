@@ -142,49 +142,6 @@
       "value": " "
     }
   ],
-  "overrides": {
-    "04FFB8F4-1D82-4C78-99B2-0D3272510989": "  ",
-    "059649F0-8D12-4CA5-B8A4-BA9AE0A25ED2": {
-      "symbolID": ""
-    },
-    "105F08FA-282A-4082-8F2D-1C8FDB4608A6": " ",
-    "2A7F896F-EF03-408F-B57D-5B66C54E81F9": {
-      "symbolID": ""
-    },
-    "3DEA9AC4-8A78-4D96-861A-4A68FB3D9462": {
-      "1578D708-D935-4E28-836D-198649CB9D4F": " ",
-      "symbolID": ""
-    },
-    "408FF59D-B483-4917-82A4-6BFB1B0DEA93": {
-      "symbolID": ""
-    },
-    "4F016F1B-8FEC-41DA-B843-B8E59A8D7C49": {
-      "symbolID": ""
-    },
-    "64B6B219-6EEF-48EC-87F3-93249A3D4D76": {
-      "symbolID": ""
-    },
-    "6B6C899D-381B-4A24-8D92-0FD94451CF0E": {
-      "symbolID": ""
-    },
-    "87D0F8F6-E622-4424-8438-A1BF8EEBC4E7": " ",
-    "9D58A17C-79F3-47A9-A81F-3281FB4D3B2A": " ",
-    "B057CB68-8924-40D2-8FDD-8CDD3B0AD557": " ",
-    "C686FC20-7DA8-4625-8CFC-DC8256B71C4D": {
-      "symbolID": ""
-    },
-    "C8813AD2-790A-4AD9-A5E9-598CB9C14D8C": {
-      "symbolID": ""
-    },
-    "CF8C5B3B-2F23-40ED-8E11-D1FAE3A345D0": {
-      "symbolID": ""
-    },
-    "E3361A1E-52CF-46FD-8A18-712601E112A3": " ",
-    "EE396128-245C-40A4-B3B5-2CBF8ABAB15F": " ",
-    "EE677ADA-4BE7-449F-A126-62DE28398025": {
-      "symbolID": ""
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

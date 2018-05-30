@@ -40,16 +40,20 @@
       "do_objectID": "B22CD2DA-6F32-462F-819A-EEC27F76F469",
       "overrideName": "3A180982-0A93-4D8D-A918-7CB4371B5AA3_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7F55291-1648-41C5-BAA6-9EB1AD4E2979",
+      "overrideName": "CC2F2D7A-60DE-4938-AEDA-F897781DDA29_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4624C842-3645-4438-A607-D41E16CEA0D4",
+      "overrideName": "2D5FE79D-3DAF-4C2A-BB72-F4A9B94609BA_symbolID",
+      "value": ""
     }
   ],
-  "overrides": {
-    "3A180982-0A93-4D8D-A918-7CB4371B5AA3": {
-      "symbolID": ""
-    },
-    "56A891E9-6872-4096-BD8B-BBE140589B03": {
-      "symbolID": ""
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "C1AE4A88-E678-4B18-AC1F-CBC2CA26F748",
       "overrideName": "066696CA-064F-432A-AA5F-C2427B62CDAD/C58A1317-B6CB-4B10-BF8C-4E039872F741_stringValue",
-      "value": "Aufgetreten am & Dauer?"
+      "value": "Auftreten & Dauer der UAW?"
     },
     {
       "_class": "overrideValue",
@@ -46,15 +46,6 @@
       "value": "B222B06C-957D-490C-9644-A0A652E9ED4A"
     }
   ],
-  "overrides": {
-    "066696CA-064F-432A-AA5F-C2427B62CDAD": {
-      "C58A1317-B6CB-4B10-BF8C-4E039872F741": "Aufgetreten am & Dauer?",
-      "symbolID": "36071B64-4FA2-480B-9043-3AF8B816B0B8"
-    },
-    "774CD20F-A031-40A1-A288-2111EC00705D": {
-      "symbolID": "B222B06C-957D-490C-9644-A0A652E9ED4A"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

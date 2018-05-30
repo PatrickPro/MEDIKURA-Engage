@@ -18,14 +18,14 @@
     "height": 36,
     "width": 772,
     "x": 0,
-    "y": 48
+    "y": 47
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",

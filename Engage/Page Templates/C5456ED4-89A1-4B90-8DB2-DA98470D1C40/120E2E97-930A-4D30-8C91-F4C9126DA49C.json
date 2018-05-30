@@ -78,42 +78,6 @@
       "value": "Rückfragen überprüfen"
     }
   ],
-  "overrides": {
-    "D595BF27-ECFA-4126-9EF2-0104BFB639CE": {
-      "475982B5-2A6B-463B-A536-59AE10EBEAD0": {
-        "900FF147-7E3E-4034-8A21-7035D4949E9E": {
-          "symbolID": ""
-        }
-      },
-      "F73071C1-B535-43F9-BCEF-20578F375C66": {
-        "1C95D034-2E23-49A6-9BEA-EC84C6DC4531": "Rückfragen überprüfen",
-        "symbolID": "4BA3DB32-E31F-450F-916D-E60C9F17F04C"
-      }
-    },
-    "D956B3C4-E714-4C24-B45E-8FD117FF8993": {
-      "1540D3C3-B738-490B-90C4-7C1F09B26763": {
-        "700D0004-2C1F-4936-91A8-101D825F6336": {
-          "AE222C52-7335-4C89-A625-E03D2B143C8A": "Zurück"
-        },
-        "7C283718-A762-4629-A46B-D0B99BD3023F": {
-          "0D2F666C-78C0-4D52-B117-E50E04DC3F58": {
-            "symbolID": ""
-          },
-          "symbolID": ""
-        }
-      },
-      "74D3E9A7-E17E-4B05-A085-A11E7A2506D0": {
-        "700D0004-2C1F-4936-91A8-101D825F6336": {
-          "37BA94C3-658B-4ED5-9D69-8D333AB1B8D6": "Abschicken"
-        },
-        "7C283718-A762-4629-A46B-D0B99BD3023F": {
-          "0D2F666C-78C0-4D52-B117-E50E04DC3F58": {
-            "symbolID": "1A6F88A2-9E74-4F35-8CEE-38170CA49731"
-          }
-        }
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

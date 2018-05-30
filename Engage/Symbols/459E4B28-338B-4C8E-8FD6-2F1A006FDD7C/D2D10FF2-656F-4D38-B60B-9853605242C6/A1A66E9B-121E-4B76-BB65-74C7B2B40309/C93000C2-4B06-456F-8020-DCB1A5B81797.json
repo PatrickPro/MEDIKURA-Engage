@@ -52,16 +52,20 @@
       "do_objectID": "E7001F69-D3EA-46DD-8F99-CA67F438F62D",
       "overrideName": "40DE5842-CBE4-4CC8-A29F-540CA6FD4488_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0813CFD-D18C-49E0-B0FE-0C62F11D420A",
+      "overrideName": "DEC31CCB-B5BC-45EE-A532-63683C0A915E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24B98715-A909-4443-9BD7-4525725D6A15",
+      "overrideName": "CC0FAB6F-463E-42C5-92A1-469296CEEA52_stringValue",
+      "value": " "
     }
   ],
-  "overrides": {
-    "40DE5842-CBE4-4CC8-A29F-540CA6FD4488": {
-      "symbolID": ""
-    },
-    "D5CEB579-C1B0-4448-AF1D-B8E74C0FAA06": "1",
-    "D8BB7AF2-4964-48E1-9FBC-D8BA97DEEAEF": " ",
-    "ECB3214B-7B49-47D0-A28D-D83AAE069802": "Wie lange haben Sie die Medikamente eingenommen? "
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

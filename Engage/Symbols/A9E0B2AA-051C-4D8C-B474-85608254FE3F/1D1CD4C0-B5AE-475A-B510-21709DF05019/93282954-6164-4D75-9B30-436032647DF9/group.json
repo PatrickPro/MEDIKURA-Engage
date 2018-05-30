@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "93282954-6164-4D75-9B30-436032647DF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1241137-FC2E-4FF5-B490-A9A4EAED3A5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43CA2FF5-1281-4F25-A8D5-09E9D60E1A00",
+    "height": 165,
+    "width": 137,
+    "x": 436,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A33DE7C2-ECBA-4601-8F82-C4DF0C500559"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD48B6E6-1B18-404A-9697-85E4FAE89BE2"
+    }
+  ],
+  "name": "XML File",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7DE42634-26EA-4F5C-8EE4-25242FC8589E",
+      "opacity": 0.3026227678571429
+    },
+    "do_objectID": "818BC818-E8AC-4A5C-9CE9-5AAE9C046280",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
