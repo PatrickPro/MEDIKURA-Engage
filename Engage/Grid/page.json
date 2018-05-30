@@ -40,15 +40,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "03A2633E-F324-4E33-AF46-96BB7CFDE918"
-    },
-    {
-      "class": "artboard",
       "id": "72CE6C19-B22F-402F-B99C-BC71A928E725"
-    },
-    {
-      "class": "artboard",
-      "id": "C12F3E70-F497-4911-9410-CC14472528BF"
     }
   ],
   "name": "Grid",
