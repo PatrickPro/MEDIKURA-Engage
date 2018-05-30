@@ -16,7 +16,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
         "scale": 2,
@@ -45,7 +45,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 3,
@@ -73,23 +73,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "AAF8167C-CBBF-4E18-AB21-C15770CE8B37"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DBCB2E03-BC6A-42C0-B3F8-545E91C42E36"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A98E4419-337C-478A-B636-01E83C76934C"
-    },
-    {
-      "class": "group",
-      "id": "6B026079-552F-4A53-8C72-6E1709F379AF"
+      "id": "E61FFFA6-14E7-4A82-84CA-CD455FE8F9A8"
     }
   ],
   "layout": {
@@ -108,7 +96,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1140
   },
-  "name": "Engage Rückfrage (1/2)",
+  "name": "Engage Rückfrage 1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4324,
+  "changeIdentifier": 4371,
   "do_objectID": "D85B244A-F92E-4AA4-96F1-B08AADA25F3A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -77,12 +77,8 @@
       "id": "9F3D2E15-9F18-4643-A76C-8B45127E99D1"
     },
     {
-      "class": "group",
-      "id": "F2119754-B37B-4CC8-A3D9-20151D127230"
-    },
-    {
-      "class": "group",
-      "id": "3A60EBF4-19A0-4662-A6A9-16404322BD9C"
+      "class": "symbolInstance",
+      "id": "4816DFA6-913B-4446-A917-2FA0E7994F89"
     }
   ],
   "name": "Engage  Free",

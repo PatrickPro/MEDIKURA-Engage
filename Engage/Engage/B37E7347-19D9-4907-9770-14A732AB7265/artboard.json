@@ -14,7 +14,7 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
         "scale": 1,
@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 902,
     "width": 1680,
-    "x": 10488,
+    "x": 798,
     "y": -219
   },
   "grid": {
@@ -56,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "bitmap",

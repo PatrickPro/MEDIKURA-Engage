@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "UAW Meldung exportieren"
+    "string": "UAW-Meldung exportieren"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A8068B80-EF99-4440-9FE2-5592F5717AAB",
@@ -54,14 +54,14 @@
     "x": 65,
     "y": 23
   },
-  "glyphBounds": "{{1, 4}, {226, 19}}",
+  "glyphBounds": "{{1, 4}, {227, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "UAW Meldung exportie",
+  "name": "UAW-Meldung exportie",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
